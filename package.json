@@ -1,5 +1,5 @@
 {
-  "name": "@zapbrah/react-example",
+  "name": "@YOUR_NPM_USERNAME/your_component_name",
   "version": "0.0.2",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -9,7 +9,7 @@
     "rollup": "rollup -c --bundleConfigAsCjs"
   },
   "keywords": [],
-  "author": "Matthew Pierce",
+  "author": "Your Name",
   "license": "ISC",
   "description": "",
   "devDependencies": {
